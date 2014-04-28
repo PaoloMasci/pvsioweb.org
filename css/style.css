@@ -2,7 +2,7 @@
 
 
 div.container {
-    width:900px;
+    width:98%;
 }
 
 .thin-outline {
@@ -19,7 +19,7 @@ div.container {
 }
 
 header div {
-    height: 250px;
+    height: 150px;
 }
 
 .bs-callout{
@@ -33,5 +33,6 @@ header div {
     border-color:#5bc0de;
 }
 header .jumbotron {
-    padding: 60px;
+	padding-top: 32px;
+    padding-left: 32px;
 }

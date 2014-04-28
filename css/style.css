@@ -1,0 +1,37 @@
+
+
+
+div.container {
+    width:900px;
+}
+
+.thin-outline {
+    border: 1px solid #e3e3e3;
+    padding: 3px;
+}
+
+.media img {
+    width: 64px;   
+}
+
+#links {
+    display:none;   
+}
+
+header div {
+    height: 250px;
+}
+
+.bs-callout{
+    margin: 20px 0;
+    padding: 20px;
+    border-left: 3px solid #eee;
+}
+
+.bs-callout-info {
+    background-color:#f4f8fa;
+    border-color:#5bc0de;
+}
+header .jumbotron {
+    padding: 60px;
+}
